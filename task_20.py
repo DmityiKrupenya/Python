@@ -21,8 +21,9 @@ dictionary = {
   4: 'FHVWYЙЫ',
   5: 'KЖЗХЦЧ',
   8: 'JXШЭЮ',
-  10: 'QZФЩЪ'
-}
+  10: 'QZФЩЪ'}
+
+
 
 try:
   word = input('Enter word: ')

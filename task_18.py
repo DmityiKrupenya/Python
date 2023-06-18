@@ -22,3 +22,4 @@ for i in range(len(a)):
     else:
         m = min(a, key=lambda i: abs(i - x))
 print(f"Близкий по величине элемент {m} ")
+
